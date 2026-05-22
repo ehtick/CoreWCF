@@ -1,0 +1,10 @@
+{
+  "total": 0,
+  "passed": 0,
+  "failed": 0,
+  "skipped": 0,
+  "other": 0,
+  "matrix": [],
+  "title": "CoreWCF Test Results — PR #73",
+  "subtitle": "PR #73 · commit 0ea61a2 · [run 26198535933](https://github.com/ehtick/CoreWCF/actions/runs/26198535933)"
+}
